@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 45fb86f8-71a4-d871-ca5e-ad8fc8a3123b
 ---
@@ -103,20 +105,6 @@ None
 ### Offered
 
 WGS.645 is offered intermittently and is considered a special topics course about “Issues of Representation: Feminist Theory.” The specific topic changes every time it is taught.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A classroom with chalkboard, several rows of flat tables for students, and a small table at the front for the instructor.]({{< resource_file cd0d9bee-1dcb-294d-1ddf-1f4c14f41e56 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    The course was taught in a classroom with chalkboards and a video projector. Students moved tables and chairs in advance of each class, so that we created a crude square/circle with the instructors variably sitting among students, separately or together. 
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
