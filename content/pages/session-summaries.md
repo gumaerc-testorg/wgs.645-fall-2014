@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains brief summaries of the topics discussed in each
+  session of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Session Summaries

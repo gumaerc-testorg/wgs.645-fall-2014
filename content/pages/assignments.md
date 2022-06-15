@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the course assignments and expectations
+  for class participation and engagement.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
