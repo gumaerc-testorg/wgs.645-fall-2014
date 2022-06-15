@@ -1,14 +1,15 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 45fb86f8-71a4-d871-ca5e-ad8fc8a3123b
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _WGS.645 Gender, Health and Marginalization Through a Critical Feminist Lens_ as it was taught by [Prof. Chris Bobel](http://www.faculty.umb.edu/chris_bobel/), [Prof. Silvia Dominguez](http://www.northeastern.edu/cssh/faculty/silvia-dominguez), and [Lecturer Norma Swenson](http://www.ourbodiesourselves.org/history/obos-founders/norma-swenson/) in Fall 2014.
 
@@ -16,29 +17,27 @@ This course used a feminist interdisciplinary lens to look critically at how pra
 
 This course was part of the [Graduate Consortium in Women’s Studies](http://mit.edu/gcws/), which brings together scholars and teachers from nine Boston-area institutions to advance interdisciplinary Women’s Studies scholarship.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Become familiar with the three analytic frameworks elucidated in the course
-*   Be able to utilize and synthesize these frameworks in analyses of a given women and health or gender and sexuality issue
+- Become familiar with the three analytic frameworks elucidated in the course
+- Be able to utilize and synthesize these frameworks in analyses of a given women and health or gender and sexuality issue
 
 ### Possibilities for Further Study/Careers
 
-*   Further exploration into health law programs describing legal activism in promoting health rights
-*   Public health programs specifically addressing human rights and health, or women and health or gender rights
-*   Women’s Studies at advanced levels on specific topics, both historical and contemporary, illustrating and documenting how Intersectionality, feminism, or a health and human rights lens is applied and can be implemented
-*   Further study of other fields such as political science, economics, and medical sociology or medical anthropology that focus on structural critiques of capitalism
+- Further exploration into health law programs describing legal activism in promoting health rights
+- Public health programs specifically addressing human rights and health, or women and health or gender rights
+- Women’s Studies at advanced levels on specific topics, both historical and contemporary, illustrating and documenting how Intersectionality, feminism, or a health and human rights lens is applied and can be implemented
+- Further study of other fields such as political science, economics, and medical sociology or medical anthropology that focus on structural critiques of capitalism
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "It’s impossible to teach in the consortium and not come away thankful for the experience. There is nothing like being among so many feminists. It was humbling, refreshing and nurturing." "—Prof. Silvia Dominguez" >}}
 
-_Below, Silvia Dominguez, Norma Swenson and Chris Boebel respond to questions about how they taught _WGS.645 Gender, Health and Marginalization Through a Critical Feminist Lens_._
+_Below, Silvia Dominguez, Norma Swenson and Chris Bobel respond to questions about how they taught_ WGS.645 Gender, Health and Marginalization Through a Critical Feminist Lens.
 
 **OCW**: This course addresses issues that, for some students, might be sensitive or controversial. What insights do you have about teaching taboo topics?
 
@@ -56,13 +55,13 @@ _Below, Silvia Dominguez, Norma Swenson and Chris Boebel respond to questions ab
 
 **Chris Bobel:** Based on both written and verbal feedback from students, my impression is that we managed to create a secure space for intellectual risk-taking. It seemed like a truly productive learning community. The students reported feeling heard by the faculty and each other, while feeling pushed to develop more cogent analyses. My sense was the time flew and that we could have continued our dicussions beyond the stroke of 8:30pm, the official end time of class. At the end of one class session, we said our thank yous and goodbyes, and no one moved. It was a touching moment.
 
-**OCW:** The [op-ed assignment]({{< baseurl >}}/pages/assignments/#oped) was an opportunity for students to articulate their positions on important women and health or gender and sexuality issues. To what degree did students successfully complete this assignment? 
+**OCW:** The {{% resource_link c1f7b577-2f9a-5c2a-2d49-06f135e1b5e6 "op-ed assignment" "#oped" %}} was an opportunity for students to articulate their positions on important women and health or gender and sexuality issues. To what degree did students successfully complete this assignment? 
 
 **Norma Swenson:** We found that since the op-ed assignment was the most unfamiliar to students, it was also the most challenging. Even after detailed feedback, quite a few did not get the principles involved in writing a proper op-ed. Several others did prepare good op-eds, with one or two even getting theirs published! 
 
 **OCW:** What did you learn from the mid-term course evaluations?
 
-**Norma Swenson:** The [student-led discussions]({{< baseurl >}}/pages/assignments) seemed to be one of the weakest parts of our course planning and the greatest source of complaint in the midterm evaluations. We graded them on some elements of the presentations, but the leadership required for these discussions was not among the course objectives. At first, the mid-term criticisms and complaints from students were devastating. But we recovered, analyzed the results, and made changes that we believe made the second half of the course much better and more successful.
+**Norma Swenson:** The {{% resource_link c1f7b577-2f9a-5c2a-2d49-06f135e1b5e6 "student-led discussions" %}} seemed to be one of the weakest parts of our course planning and the greatest source of complaint in the midterm evaluations. We graded them on some elements of the presentations, but the leadership required for these discussions was not among the course objectives. At first, the mid-term criticisms and complaints from students were devastating. But we recovered, analyzed the results, and made changes that we believe made the second half of the course much better and more successful.
 
 **OCW:** What are your thoughts about the overall design of the course?
 
@@ -90,13 +89,12 @@ My advice for educators embarking on co-teaching is to be as transparent as poss
 
 {{< /div-with-class >}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-*   Students must apply to the [Graduate Consortium in Women’s Studies](http://mit.edu/gcws/).
-*   Doctoral students receive priority; master’s students and advanced undergraduates may be admitted if space permits.
+- Students must apply to the [Graduate Consortium in Women’s Studies](http://mit.edu/gcws/).
+- Doctoral students receive priority; master’s students and advanced undergraduates may be admitted if space permits.
 
 ### Requirements Satisfied
 
@@ -108,8 +106,7 @@ WGS.645 is offered intermittently and is considered a special topics course abou
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -119,10 +116,11 @@ The students' grades were based on the following activities:
 - 5% Annotated bibliography
 - 20% Op-ed and related presentation
 
-Student Information
--------------------
+## Student Information
 
-![On average, fewer than 10 students take this course each time it is offered.]({{< resource_file 7bfea19e-6c25-9c8d-97c3-688421c75e7d >}})
+### Enrollment
+
+Fewer than 10 students.
 
 ### Enrollment Cap
 
@@ -130,18 +128,15 @@ Each seminar in the Graduate Consortium of Women’s Studies is limited to 20 st
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 1 time per week for 3 hours per session; 14 sessions total; mandatory attendance.
-*   Student-led discussions of the readings, topics, and questions for the week.
+- Met 1 time per week for 3 hours per session; 14 sessions total; mandatory attendance.
+- Student-led discussions of the readings, topics, and questions for the week.
 
-Out of Class
-------------
+### Out of Class
 
 Students spent their out-of-class time completing the weekly assigned readings, preparing discussion questions, or working on assignments.
