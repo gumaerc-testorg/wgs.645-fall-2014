@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains brief summaries of the topics discussed in each
+  session of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Session Summaries
 uid: c66ab966-978b-8f12-0f8a-bb8433df7acb
 ---
