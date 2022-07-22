@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: WGS-645_classroom-1
 uid: cd0d9bee-1dcb-294d-1ddf-1f4c14f41e56
 ---
 Photograph of the classroom used for the course.
-

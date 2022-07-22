@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: WGS-645_stat-students
 uid: 7bfea19e-6c25-9c8d-97c3-688421c75e7d
 ---
 Image showing the approximate number of students enrolled in the course.
-
