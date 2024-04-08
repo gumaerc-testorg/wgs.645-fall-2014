@@ -37,7 +37,7 @@ Your Op-Ed will address the topic you've selected for your Research Paper (and A
 
 We encourage you to submit your Op-Ed for publication.
 
-Assignment Resources are drawn from [The Op-Ed Project](http://www.theopedproject.org/). Please review the following documents located there before you begin your Op-Ed.
+Assignment Resources are drawn from {{% resource_link "d26a662a-d5a5-4e39-b3eb-6e660e450430" "The Op-Ed Project" %}}. Please review the following documents located there before you begin your Op-Ed.
 
 *   Submission info, Top Outlets
 *   Questions for Op-Ed Writers
