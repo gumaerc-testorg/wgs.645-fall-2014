@@ -40,7 +40,7 @@ Teghtsoonian, Katherine. "[Depression and Mental Health in Neoliberal Times: A C
 
 Roberts, D. E. *Killing the Black Body: Race, Reproduction, and the Meaning of Liberty*. Pantheon, 1997. ISBN: 9780679442264. \[Excerpt: Introduction\]
 
-Cottingham, Jane, Adrienne Germain, et al. "[Use of Human Rights to Meet the Unmet Need for Family Planning](http://dx.doi.org/10.1016/S0140-6736(12)60732-6)." *The Lancet* 380, no. 9837 (2012): 172–80. \[Lancet Series 5 Papers about Family Planning\]
+Cottingham, Jane, Adrienne Germain, et al. "[Use of Human Rights to Meet the Unmet Need for Family Planning](http://dx.doi.org/10.1016/S0140-6736%2812%2960732-6)." *The Lancet* 380, no. 9837 (2012): 172–80. \[Lancet Series 5 Papers about Family Planning\]
 
 [Framework of Actions for the follow-up to the Programme of Action of the International Conference on Population and Development: Beyond 2014 (PDF - 4.5MB)](https://www.unfpa.org/publications/framework-actions-follow-programme-action-international-conference-population-and)
 
@@ -50,7 +50,7 @@ Grodin, Michael, Daniel Tarantola, eds. *Health and Human Rights in a Changing W
 
 [Health and Human Rights Syllabi Database](http://globalhealth.usc.edu/hhrsyllabi). *University of Southern California Global Health*, November 2013.
 
-"[Special Issue on Health Rights Litigation](http://www.hhrjournal.org)." *Health and Human Rights Journal* 16, no. 2 (2014).
+"[Special Issue on Health Rights Litigation](http://www.hhrjournal.org/)." *Health and Human Rights Journal* 16, no. 2 (2014).
 
 *Videos shown in class*
 
@@ -114,7 +114,7 @@ Contrada, Richard J., et al. "[Ethnicity-Related Sources of Stress and their Eff
 
 Gomez, J., R. Miranda, et al. "[Acculturative Stress, Perceived Discrimination, and Vulnerability to Suicide Attempts Among Emerging Adults](http://dx.doi.org/10.1007/s10964-011-9688-9)." *Journal of Youth and Adolescence* 40, no. 11 (2011): 1465–76.
 
-Brown, T. N., D. R. Williams, et al. "["Being Black and Feeling Blue": The Mental Health Consequences of Racial Discrimination](http://dx.doi.org/10.1016/S1090-9524(00)00010-3)." *Race and Society* 2, no. 2 (2000): 117–31.
+Brown, T. N., D. R. Williams, et al. "["Being Black and Feeling Blue": The Mental Health Consequences of Racial Discrimination](http://dx.doi.org/10.1016/S1090-9524%2800%2900010-3)." *Race and Society* 2, no. 2 (2000): 117–31.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -154,8 +154,6 @@ Amnesty International. ["Deadly Delivery: The Maternal Health Care Crisis in the
 
 Jonge, A. de, J. Mesman, et al. "[Severe Adverse Maternal Outcomes Among Low Risk Women with Planned Home Versus Hospital Births in the Netherlands: Nationwide Cohort Study](http://dx.doi.org/10.1136/bmj.f3263)." *The British Medical Journal* (2013): 346. See also: Letter (Published 13 June 2013)
 
-Hodges, Susan, and Henci Goer. "[Effects of Hospital Economics on Maternity Care](http://cfmidwifery.org/Resources/item.aspx?ID=32)," *Citizens for Midwifery*, February 26, 2004.
-
 DeKoninck, Maria. "Reflections on the Transfer of Progress: The Case of Reproduction." In *The Politics of Women's Health: Exploring Agency and Autonomy*. Edited by Susan Sherwin. Temple University Press, 1998. ISBN: 9781566396332. \[Preview with [Google Books](http://books.google.com/books?id=xLSuP-zmeNkC&pg=PA150=onepage)\] \[Feminist Health Ethics Network\]
 
 *Recommended Readings*
@@ -182,7 +180,7 @@ This American Life. "[Back to School](http://www.thisamericanlife.org/radio-arch
 
 "[Creating Secure Infant Attachment](http://www.helpguide.org/articles/secure-attachment/creating-secure-infant-attachment-video.htm)." HelpGuide.org.
 
-[Childbirth Connection](http://www.childbirthconnection.org)
+[Childbirth Connection](http://www.childbirthconnection.org/)
 
 "[Evidence-Based Maternity Care: What It Is and What It Can Achieve (PDF)](http://www.milbank.org/uploads/documents/0809MaternityCare/0809MaternityCare.pdf)." \[PDF downloadable\]
 
@@ -194,7 +192,7 @@ Vedam S., K. Stoll, et al. "[Home Birth: An Annotated Guide to the Literature (P
 
 *Film shown in class (clips)*
 
-Biasucchi, Cara. [*Born in Brazil (Nascendo no Brasil)*](http://emro.lib.buffalo.edu/emro/emroDetail.asp?Number=1514). Cara Mia Media, 2002.
+Biasucchi, Cara. *Born in Brazil (Nascendo no Brasil)*. Cara Mia Media, 2002.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -220,7 +218,7 @@ Arcana, Judith. [*What If Your Mother?*](http://www.juditharcana.com/books#what-
 
 Ramanathan, Mala, P. Sankara Sarma, et al. ["Situational Analysis of MTP Services in Kerala Provider Perspectives." (PDF)](http://www.cehat.org/go/uploads/AapIndia/kerala.pdf) 2003 \[India\] \[Executive Summary\]
 
-Website Reports: [International Campaign for Women's Right to Safe Abortion](http://www.safeabortionwomensright.org/)   
+Website Reports: [International Campaign for Women's Right to Safe Abortion](http://www.safeabortionwomensright.org/)     
 *Global network generates and publishes reports and alerts on abortion status, rights and laws from countries all over the globe, North and South*.
 
 *Recommended Films*
@@ -287,7 +285,7 @@ Karkazis, K. A. Chapters 4 and 5 in *Fixing Sex: Intersex, Medical Authority, an
 
 Liedolf, Esther Morris. "Intersex? Not My Problem." In *Embodied Resistance: Challenging the Norms, Breaking the Rules*. Edited by C. Bobel, and S. Kawan. Vanderbilt University Press, 2011. ISBN: 9780826517876. \[Preview with [Google Books](http://books.google.com/books?id=gMYOLHU-1ocC&pg=PA167=onepage)\]
 
-SWS Fact Sheet:   
+SWS Fact Sheet:     
 Kelly, Maura. ["Intersex." (PDF)](https://socwomen.org/wp-content/uploads/2018/03/fact_03-2007-intersex.pdf) *Sociologists for Women in Society Fact Sheet*, 2007.
 
 *Film shown in class*
