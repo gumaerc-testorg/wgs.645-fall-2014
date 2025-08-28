@@ -218,7 +218,7 @@ Arcana, Judith. [*What If Your Mother?*](http://www.juditharcana.com/books#what-
 
 Ramanathan, Mala, P. Sankara Sarma, et al. ["Situational Analysis of MTP Services in Kerala Provider Perspectives." (PDF)](http://www.cehat.org/go/uploads/AapIndia/kerala.pdf) 2003 \[India\] \[Executive Summary\]
 
-Website Reports: [International Campaign for Women's Right to Safe Abortion](http://www.safeabortionwomensright.org/)     
+Website Reports: [International Campaign for Women's Right to Safe Abortion](http://www.safeabortionwomensright.org/)      
 *Global network generates and publishes reports and alerts on abortion status, rights and laws from countries all over the globe, North and South*.
 
 *Recommended Films*
@@ -285,7 +285,7 @@ Karkazis, K. A. Chapters 4 and 5 in *Fixing Sex: Intersex, Medical Authority, an
 
 Liedolf, Esther Morris. "Intersex? Not My Problem." In *Embodied Resistance: Challenging the Norms, Breaking the Rules*. Edited by C. Bobel, and S. Kawan. Vanderbilt University Press, 2011. ISBN: 9780826517876. \[Preview with [Google Books](http://books.google.com/books?id=gMYOLHU-1ocC&pg=PA167=onepage)\]
 
-SWS Fact Sheet:     
+SWS Fact Sheet:      
 Kelly, Maura. ["Intersex." (PDF)](https://socwomen.org/wp-content/uploads/2018/03/fact_03-2007-intersex.pdf) *Sociologists for Women in Society Fact Sheet*, 2007.
 
 *Film shown in class*
@@ -316,7 +316,7 @@ Applebaum, Binyamin, and Sheryl Gay Stolberg. "[At I.M.F., Men on Prowl and Wome
 
 Levy, Ariel. "[Trial by Twitter](http://www.newyorker.com/magazine/2013/08/05/trial-by-twitter)." *The New Yorker*, August 5, 2013. \[Reportage on college campus rape in Ohio.\]
 
-Corrin, Chris. "[International and Local Interventions to Reduce Gender-based Conflict in Post-conflict Situations](http://www.eldis.org/go/home&id=18300&type=Document#.VVZRhvlViko)." Eldis Online Information, 2004.
+Corrin, Chris. "International and Local Interventions to Reduce Gender-based Conflict in Post-conflict Situations." Eldis Online Information, 2004.
 
 Gingerich, Tara, and Jennifer Leaning. "[The Use of Rape as a Weapon of War in Darfur, Sudan](http://physiciansforhumanrights.org/library/reports/darfur-use-of-rape-as-weapon-2004.html)." Prepared for U.S. Agency for International Development / October 2004. \[With assistance from Physicians for Human Rights, Boston, MA\]
 
