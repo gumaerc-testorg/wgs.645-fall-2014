@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photograph of the classroom used for the course.
-file: /courses/wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014/cd0d9bee1dcb294d1ddf1f4c14f41e56_WGS-645_classroom-1.jpg
+file: /ol-ocw-studio-app/courses/wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014/cd0d9bee1dcb294d1ddf1f4c14f41e56_WGS-645_classroom-1.jpg
 file_size: 59656
 file_type: image/jpeg
 image_metadata:
