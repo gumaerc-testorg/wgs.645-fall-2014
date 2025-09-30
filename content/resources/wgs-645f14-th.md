@@ -9,7 +9,7 @@ file_type: image/jpeg
 image_metadata:
   caption: 'Women stage a pro-choice counter-protest in opposition to a group of students
     that gathered to protest women''s reproductive freedom in Ottawa. (Image courtesy
-    of [Jenn Farr](https://www.flickr.com/photos/jennfarr/4532487929/sizes/l/) on
+    of {{% resource_link "7bb11e6e-916d-40a9-8c4e-8dac070b7473" "Jenn Farr" %}} on
     Flickr. License: CC NC-BY-SA.)'
   credit: 'Image courtesy of Jenn Farr on Flickr. License: CC NC-BY-SA.'
   image-alt: A woman shouts through a megaphone while holding a banner that says "Women's
